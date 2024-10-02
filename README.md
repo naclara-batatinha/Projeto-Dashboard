@@ -2,14 +2,13 @@
 
 ## INTRODUÇÃO E OBJETIVO
 
-    Foi pedido um projeto para a matéria de Probabilidade e Estatística Experimental onde os alunos devem 
+     Foi pedido um projeto para a matéria de Probabilidade e Estatística Experimental onde os alunos devem 
     fazer uma dashboard utilizando diferentes ferramentas que apresenta visualização significativas de dados 
-    Foi escolhido pelos alunos os dados a respeito do arquivo csv foi pego do site kaggle com o link:
-    
+     Foi escolhido pelos alunos os dados a respeito do arquivo csv foi pego do site kaggle que corresponde 
+    aos preços médios de veículos anunciados pelos vendedores, no mercado nacional, servindo apenas como 
+    um parâmetro para negociações ou avaliações
+     Link correspondente:
 https://www.kaggle.com/code/gabrielsober/tabela-fipe-carros-brasil-2023-janeiro/log 
-    
-    que corresponde aos preços médios de veículos anunciados pelos vendedores, no mercado nacional, servindo 
-    apenas como um parâmetro para negociações ou avaliações
 
 
 ## PLANEJAMENTO
