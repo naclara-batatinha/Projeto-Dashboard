@@ -35,9 +35,4 @@ https://www.kaggle.com/code/gabrielsober/tabela-fipe-carros-brasil-2023-janeiro/
 ## ALUNOS
 
 ### Ana Clara Oliveira Baratinha 
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:)
-
 ### Gabriel Gonçalves da Silva
-
-[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)]( ) 
